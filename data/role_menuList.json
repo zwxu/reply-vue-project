@@ -1,0 +1,432 @@
+{
+  "userName": "fangxiangqian",
+  "menuList": [
+    {
+      "menuId": 1,
+      "menuCode": "m-statistics",
+      "menuName": "数据总览",
+      "menuUrl": "/statistics/index",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": []
+    },
+    {
+      "menuId": 2,
+      "menuCode": "m-trend",
+      "menuName": "趋势分析",
+      "menuUrl": "/trendanalysis/index",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": []
+    },
+    {
+      "menuId": 200,
+      "menuCode": "m-test",
+      "menuName": "Test",
+      "menuUrl": "/test",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": []
+    },
+    {
+      "menuId": 3,
+      "menuCode": "#",
+      "menuName": "数据分析",
+      "menuUrl": "#",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": [
+        {
+          "menuId": 35,
+          "menuCode": "m-income-query",
+          "menuName": "收益查询",
+          "menuUrl": "/fund/income_query",
+          "status": true,
+          "parentId": 3,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 43,
+          "menuCode": "m-trade-analysis",
+          "menuName": "交易分析",
+          "menuUrl": "/trade/analysis",
+          "status": true,
+          "parentId": 3,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 50,
+          "menuCode": "m-financial-statistics",
+          "menuName": "财务统计",
+          "menuUrl": "/income/forecastIncome",
+          "status": true,
+          "parentId": 3,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 44,
+          "menuCode": "m-fixed-accumulation",
+          "menuName": "定投统计",
+          "menuUrl": "/fixedinvestment/queryaccumulation",
+          "status": true,
+          "parentId": 3,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 44,
+          "menuCode": "m-month-report",
+          "menuName": "月报查询",
+          "menuUrl": "/statistics/month/report",
+          "status": true,
+          "parentId": 3,
+          "menuType": false,
+          "subMenu": []
+        }
+      ]
+    },
+    {
+      "menuId": 4,
+      "menuCode": "#",
+      "menuName": "理财清结算",
+      "menuUrl": "#",
+      "status": false,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": [
+        {
+          "menuId": 5,
+          "menuCode": "m-acct-step",
+          "menuName": "上传对账单",
+          "menuUrl": "/fundsource/fileUploadIndex",
+          "status": true,
+          "parentId": 4,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 7,
+          "menuCode": "m-inst",
+          "menuName": "机构对账",
+          "menuUrl": "/fund/inst_index",
+          "status": true,
+          "parentId": 4,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 8,
+          "menuCode": "m-sys",
+          "menuName": "系统对账",
+          "menuUrl": "/fund/sys_index",
+          "status": true,
+          "parentId": 4,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 10,
+          "menuCode": "m-repair",
+          "menuName": "补单",
+          "menuUrl": "/fund/inst_repair",
+          "status": true,
+          "parentId": 4,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 23,
+          "menuCode": "m-fundout",
+          "menuName": "回款管理",
+          "menuUrl": "/fundout/index",
+          "status": true,
+          "parentId": 4,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 24,
+          "menuCode": "m-refund",
+          "menuName": "退款管理",
+          "menuUrl": "/refund/index",
+          "status": true,
+          "parentId": 4,
+          "menuType": false,
+          "subMenu": []
+        }
+      ]
+    },
+    {
+      "menuId": 11,
+      "menuCode": "#",
+      "menuName": "订单系统",
+      "menuUrl": "#",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": [
+        {
+          "menuId": 12,
+          "menuCode": "m-order-query",
+          "menuName": "订单查询",
+          "menuUrl": "/order/query",
+          "status": true,
+          "parentId": 11,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 13,
+          "menuCode": "m-order-delay",
+          "menuName": "滞留订单",
+          "menuUrl": "/order/delay",
+          "status": true,
+          "parentId": 11,
+          "menuType": false,
+          "subMenu": []
+        }
+      ]
+    },
+    {
+      "menuId": 14,
+      "menuCode": "#",
+      "menuName": "虚拟本金",
+      "menuUrl": "#",
+      "status": false,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": [
+        {
+          "menuId": 15,
+          "menuCode": "m-acct-vb-step",
+          "menuName": "上传虚拟本金",
+          "menuUrl": "/fundvbsource/fileUploadIndex",
+          "status": true,
+          "parentId": 14,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 16,
+          "menuCode": "m-vb",
+          "menuName": "虚拟本金",
+          "menuUrl": " ",
+          "status": true,
+          "parentId": 14,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 26,
+          "menuCode": "m-vb-statistic",
+          "menuName": "虚拟本金统计",
+          "menuUrl": "http://staging.aop.fund.pt.xiaomi.com/data/statistics?_external=true",
+          "status": true,
+          "parentId": 14,
+          "menuType": false,
+          "subMenu": []
+        }
+      ]
+    },
+    {
+      "menuId": 17,
+      "menuCode": "#",
+      "menuName": "用户管理",
+      "menuUrl": "#",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": [
+        {
+          "menuId": 36,
+          "menuCode": "m-user-query",
+          "menuName": "用户查询",
+          "menuUrl": "/user/index",
+          "status": true,
+          "parentId": 17,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 36,
+          "menuCode": "m-user-info-down",
+          "menuName": "用户导出",
+          "menuUrl": "/user/infoDownload",
+          "status": true,
+          "parentId": 17,
+          "menuType": false,
+          "subMenu": []
+        }
+      ]
+    },
+    {
+      "menuId": 18,
+      "menuCode": "#",
+      "menuName": "维护管理",
+      "menuUrl": "#",
+      "status": false,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": [
+        {
+          "menuId": 19,
+          "menuCode": "m-notice",
+          "menuName": "通知公告",
+          "menuUrl": "/manage/notice_index",
+          "status": true,
+          "parentId": 18,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 20,
+          "menuCode": "m-order-notice",
+          "menuName": "业务公告",
+          "menuUrl": "/manage/order_notice_index",
+          "status": true,
+          "parentId": 18,
+          "menuType": false,
+          "subMenu": []
+        }
+      ]
+    },
+    {
+      "menuId": 21,
+      "menuCode": "m-monitor-mq",
+      "menuName": "监控报警",
+      "menuUrl": "    ",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": []
+    },
+    {
+      "menuId": 25,
+      "menuCode": "m-redeem",
+      "menuName": "手动赎回",
+      "menuUrl": "/redeem/index",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": []
+    },
+    {
+      "menuId": 27,
+      "menuCode": "m_p_insurance",
+      "menuName": "人工退保",
+      "menuUrl": "/fixedincome/index",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": []
+    },
+    {
+      "menuId": 29,
+      "menuCode": "m_ransom",
+      "menuName": "赎回与退保",
+      "menuUrl": "/ransom/index",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": []
+    },
+    {
+      "menuId": 30,
+      "menuCode": "m-role",
+      "menuName": "权限管理",
+      "menuUrl": "#",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": [
+        {
+          "menuId": 31,
+          "menuCode": "m-role-role",
+          "menuName": "角色权限",
+          "menuUrl": "/role/role/index",
+          "status": true,
+          "parentId": 30,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 45,
+          "menuCode": "m-role-menu",
+          "menuName": "功能模块",
+          "menuUrl": "/role/menu/index",
+          "status": true,
+          "parentId": 30,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 46,
+          "menuCode": "m-role-user",
+          "menuName": "用户模块",
+          "menuUrl": "/role/userRole/index",
+          "status": true,
+          "parentId": 30,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 41,
+          "menuCode": "m-role-api",
+          "menuName": "API模块",
+          "menuUrl": "/role/api",
+          "status": true,
+          "parentId": 30,
+          "menuType": false,
+          "subMenu": []
+        },
+        {
+          "menuId": 47,
+          "menuCode": "m-role-auth",
+          "menuName": "权限配置",
+          "menuUrl": "/role/auth",
+          "status": true,
+          "parentId": 30,
+          "menuType": false,
+          "subMenu": []
+        }
+      ]
+    },
+    {
+      "menuId": 38,
+      "menuCode": "m-whiteList-add",
+      "menuName": "白名单",
+      "menuUrl": "/whiteList/index",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": []
+    },
+    {
+      "menuId": 39,
+      "menuCode": "m-user",
+      "menuName": "用户分析",
+      "menuUrl": "/useranalysis/index",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": []
+    },
+    {
+      "menuId": 40,
+      "menuCode": "m-daily",
+      "menuName": "日报配置",
+      "menuUrl": "/daily",
+      "status": true,
+      "parentId": 0,
+      "menuType": false,
+      "subMenu": []
+    }
+  ]
+}
