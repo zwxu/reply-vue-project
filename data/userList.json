@@ -1,0 +1,22 @@
+{
+  "userList": [
+    {
+      "result": null,
+      "errCode": null,
+      "errMsg": null,
+      "id": 0,
+      "loginname": "haha",
+      "password": "123456",
+      "createTime": null
+    },
+    {
+      "result": null,
+      "errCode": null,
+      "errMsg": null,
+      "id": 0,
+      "loginname": "sss",
+      "password": "123456",
+      "createTime": null
+    }
+  ]
+}
