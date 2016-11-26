@@ -1,0 +1,140 @@
+{
+  "studentList": [
+    {
+      "username": "张三",
+      "school": "软件学院",
+      "number": "SA16001",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": null
+    },
+    {
+      "username": "李四",
+      "school": "软件学院",
+      "number": "SA16002",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "王五",
+      "school": "软件学院",
+      "number": "SA16003",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "刘翔",
+      "school": "软件学院",
+      "number": "SA16004",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "孙杨",
+      "school": "软件学院",
+      "number": "SA16005",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "宁泽涛",
+      "school": "软件学院",
+      "number": "SA16006",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "科比",
+      "school": "软件学院",
+      "number": "SA16007",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": null
+    },
+    {
+      "username": "麦蒂",
+      "school": "软件学院",
+      "number": "SA16008",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "姚明",
+      "school": "软件学院",
+      "number": "SA16009",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "易建联",
+      "school": "软件学院",
+      "number": "SA16010",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "林书豪",
+      "school": "软件学院",
+      "number": "SA16011",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "林丹",
+      "school": "软件学院",
+      "number": "SA16012",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "邓超",
+      "school": "软件学院",
+      "number": "SA16013",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "李晨",
+      "school": "软件学院",
+      "number": "SA16014",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    },
+    {
+      "username": "杨颖",
+      "school": "软件学院",
+      "number": "SA16015",
+      "groupid": null,
+      "passCount": null,
+      "rejectCount": null,
+      "status": ""
+    }
+  ],
+  "total": 15
+}

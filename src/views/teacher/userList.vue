@@ -38,8 +38,7 @@
                  $this.$am.ajax({
                  url: $ApiConf.api_list,
                      success: function (data) {
-                     //已经使用该优惠券
-                        console.log(data);
+
                          $this.$set("userList",data.userList);
                      }
                  });

@@ -1,4 +1,4 @@
 module.exports = {
-    api_list: "/data/userList.json",
+    api_student_list: "/data/studentList.json",
     api_auth_menuList: "data/role_menuList.json",
 };

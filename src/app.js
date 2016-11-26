@@ -28,10 +28,10 @@ var App = Vue.extend(require('./app.vue'));
 
 
 //注册全局组件
-/*var pagination = Vue.extend(require("./views/pagination.vue"));
+var pagination = Vue.extend(require("./views/pagination.vue"));
 Vue.component("pagination",pagination);
 
-var calendar = Vue.extend(require("./plugins/calendar.vue"));
+/*var calendar = Vue.extend(require("./plugins/calendar.vue"));
 Vue.component("calendar",calendar);*/
 
 

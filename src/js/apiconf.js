@@ -1,4 +1,5 @@
 module.exports = {
-    api_list: "/api/list",
+    api_student_list: "/api/student/list",
+    api_auth_menuList: "/api/auth/menulist",
 
 };
