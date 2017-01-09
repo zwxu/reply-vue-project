@@ -11,14 +11,14 @@ module.exports = function (router) {
             name: "student_index",
             menuName: "学生",
             component: function (reslove) {
-                return require(['./../views/student/student_index.vue'], reslove)
+                return require(['./../views/student/studentList.vue'], reslove)
             }
         },
         '/teacher/index': {
-            name: "m_p_insurance",
+            name: "teacher_index",
             menuName: "老师",
             component: function (reslove) {
-                return require(['./../views/teacher/userList.vue'], reslove)
+                return require(['./../views/teacher/teacherList.vue'], reslove)
             }
         },
 
