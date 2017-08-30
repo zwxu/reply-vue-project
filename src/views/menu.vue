@@ -14,7 +14,7 @@
             </header>
             <router-view class="view" id="view" keep-alive :transition="effect" transition-mode="out-in"></router-view>
             <div class="g-ft">
-                <p>开发支持：小米金融上海团队</p>
+                <p>开发支持：新力量开发团队</p>
 
                 <p>问题反馈：<a href="mailto:fangxiangqian@xiaomi.com">fangxiangqian@xiaomi.com</a></p>
                 <!--<button @click="foo">foo</button>-->
@@ -22,7 +22,7 @@
         </div>
         <div class="g-sd">
             <div class="m-logo">
-                <h1>米金融理财后台</h1>
+                <h1>新力量后台</h1>
             </div>
             <nav class="m-nav">
                 <ul>
